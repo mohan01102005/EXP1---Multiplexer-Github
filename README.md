@@ -1,19 +1,5 @@
 # EXP1---Multiplexer-Github
-verilog-exp1-mux/
-├── README.md
-├── gate_level/
-│   ├── mux4_1.v
-│   └── mux4_1_tb.v
-├── dataflow/
-│   ├── mux4_1.v
-│   └── mux4_1_tb.v
-├── behavioral/
-│   ├── mux4_1.v
-│   └── mux4_1_tb.v
-├── structural/
-│   ├── mux2to1.v
-│   ├── mux4to1.v
-│   └── mux4to1_tb.v
+
 git init
 git add .
 git commit -m "Initial commit: Verilog MUX experiment"
